@@ -1,4 +1,4 @@
 # Raeven02.github.io
 Personal Projects~ 🎵
 
-[Test Link](https://raeven02.github.io/RiverPlatformer)
+River Platformer: [Play Here](https://raeven02.github.io/RiverPlatformer)
