@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1771305511|276478886';
+const CACHE_VERSION = '1771305818|583070269';
 /** @type {string} */
 const CACHE_PREFIX = 'vs Pong-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
